@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://kagarmanov.tk/index.html</loc>
+    <lastmod>2020-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://kagarmanov.tk/images/d7632bce-1c2c-4f54-9f2c-1694e5a7d132.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kagarmanov.tk/images/vk-social-network-logo_icon-iconscom_73339.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://kagarmanov.tk/images/instagram_new_icon-iconscom_69008.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
