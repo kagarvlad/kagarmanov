@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kagarmanov.tk" resolutions="1x" timestamp="1607069330133">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kagarmanov.tk" resolutions="1x" timestamp="1607070346633">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="218590930" ref="index"/>
+    <file name="index.css" crc="4192900701" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,15 +12,16 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="vladislav-kagarmanov-favicon.ico" crc="495368855" ref="index"/>
     <file name="d7632bce-1c2c-4f54-9f2c-1694e5a7d132.jpg" crc="526450270" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="vk-social-network-logo_icon-iconscom_73339.png" crc="3847841006" seo="true" ref="index">
+    <file name="vk-social-network-logo_icon-iconscom_73339.png" crc="4196733050" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="instagram_new_icon-iconscom_69008.png" crc="4243791488" seo="true" ref="index">
+    <file name="instagram_new_icon-iconscom_69008.png" crc="528214275" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="282705598" seo="true" mt="1607068224461" redirect="true"/>
+  <file name="index.html" crc="395404374" seo="true" mt="1607070314360" redirect="true"/>
 </manifest>
