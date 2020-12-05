@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kagarmanov.tk" resolutions="1x" timestamp="1607070346633">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kagarmanov.tk" resolutions="1x" timestamp="1607182206041">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4192900701" ref="index"/>
+    <file name="index.css" crc="251095909" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -23,5 +23,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="395404374" seo="true" mt="1607070314360" redirect="true"/>
+  <file name="index.html" crc="3865577352" seo="true" mt="1607182150731" redirect="true"/>
 </manifest>
